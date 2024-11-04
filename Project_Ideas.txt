@@ -1,0 +1,14 @@
+- Going through space with different islands
+	- mountain island with snowboarder backflipping
+	- soccer island with animated goal 
+	- computer screen with code animation
+	- block M 
+
+X- Work on move camera function
+
+[] - Work on addding islands/element to scroll past 
+	[X] - Block M
+	[] - Snowboarder
+	[] - Soccer
+	[] - Michigan
+	[] - Computer
